@@ -3,7 +3,6 @@ def modulo(a, b):
     resultado = a - (cociente * b)
     return resultado
 
-
 a = int(input("Introduce a: "))
 b = int(input("Introduce b: "))
 
